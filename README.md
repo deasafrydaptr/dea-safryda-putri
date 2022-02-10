@@ -1,9 +1,7 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Dea Safryda Putri**.\
-
-Saya seorang **Mahasiswa tahun ketiga di Universitas Singaperbangsa Karawang**.\
-
+Perkenalkan nama saya **Dea Safryda Putri**.
+Saya seorang **Mahasiswa tahun ketiga di Universitas Singaperbangsa Karawang**.
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dea-safryda-putri-8044bb169/)ku ya.
  
 <p align="left">
