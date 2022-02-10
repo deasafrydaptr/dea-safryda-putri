@@ -1,2 +1,11 @@
-# dea-safryda-putri
-Repository ini digunakan sebagai portofolio
+# Halo semua! 
+
+Perkenalkan nama saya **Dea Safryda Putri**.\
+
+Saya seorang **Mahasiswa tahun ketiga di Universitas Singaperbangsa Karawang**.\
+
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Singaperbangsa](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+
+Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dea-safryda-putri/)ku ya.
